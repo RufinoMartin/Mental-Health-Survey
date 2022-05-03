@@ -1,0 +1,1081 @@
+,no_employees,tech_company,benefits,wellness_program,anonymity,work_interfere,family_history,phys_health_interview,Age,Gender
+0,More than 1000,1.0,Yes,Yes,Yes,,Yes,No,57,Female
+1,More than 1000,1.0,Yes,No,I don't know,,Yes,Yes,29,male
+2,6-25,0.0,Yes,No,I don't know,,Yes,No,46,Male
+3,6-25,1.0,No,No,I don't know,,No,No,34,male
+4,26-100,1.0,Yes,Yes,Yes,,Yes,Yes,29,Ostensibly Male
+5,100-500,1.0,Yes,No,I don't know,,No,Yes,55,male
+6,More than 1000,1.0,Yes,No,I don't know,,No,Maybe,29,Agender
+7,26-100,1.0,Not eligible for coverage / NA,No,I don't know,,I don't know,Maybe,35,male
+8,More than 1000,1.0,I don't know,No,No,,Yes,Maybe,33,"male, born with xy chromosoms"
+9,More than 1000,0.0,Yes,No,I don't know,,No,Maybe,37,Male
+10,More than 1000,1.0,Yes,Yes,I don't know,,Yes,No,45,Male
+11,500-1000,0.0,No,No,I don't know,,I don't know,Yes,31,Male
+12,,,,,,,Yes,Yes,38,Female
+13,More than 1000,0.0,I don't know,No,I don't know,,Yes,Yes,26,Male
+14,100-500,1.0,No,No,I don't know,,No,Yes,27,female
+15,6-25,0.0,Yes,No,I don't know,,Yes,Maybe,35,Male
+16,26-100,0.0,Yes,No,I don't know,,Yes,No,47,Male
+17,More than 1000,1.0,Yes,I don't know,I don't know,,I don't know,Yes,37,Male
+18,500-1000,0.0,No,No,No,,Yes,No,32,Male
+19,,,,,,51-75%,I don't know,Yes,46,Male
+20,26-100,1.0,Yes,No,I don't know,,Yes,Yes,37,Male
+21,100-500,1.0,Yes,I don't know,Yes,,Yes,No,36,male
+22,,,,,,26-50%,Yes,Yes,29,Malel
+23,100-500,1.0,Yes,No,I don't know,,I don't know,Yes,45,Male
+24,6-25,0.0,I don't know,No,I don't know,,No,Maybe,30,Male
+25,6-25,1.0,No,Yes,I don't know,,I don't know,No,46,male
+26,26-100,1.0,No,No,I don't know,,No,No,29,male
+27,More than 1000,1.0,I don't know,No,Yes,,I don't know,No,26,male
+28,,,,,,,Yes,Maybe,26,Male
+29,6-25,1.0,I don't know,No,I don't know,,Yes,Yes,44,Male
+30,26-100,1.0,Yes,No,I don't know,,I don't know,Yes,32,Male
+31,100-500,1.0,I don't know,No,I don't know,,No,Yes,34,male
+32,500-1000,1.0,Yes,Yes,Yes,,I don't know,Maybe,19,male
+33,More than 1000,0.0,I don't know,No,I don't know,,Yes,No,38,M
+34,6-25,1.0,Not eligible for coverage / NA,No,No,,No,Maybe,61,Male
+35,6-25,1.0,Yes,No,I don't know,,I don't know,No,44,Male
+36,,,,,,26-50%,Yes,Maybe,32,Female 
+37,100-500,0.0,Yes,Yes,Yes,,No,Maybe,31,Male
+38,26-100,1.0,Yes,Yes,I don't know,,No,Maybe,30,Female
+39,,,,,,26-50%,No,Maybe,52,male
+40,26-100,1.0,I don't know,No,I don't know,,Yes,Yes,44,male
+41,More than 1000,0.0,I don't know,No,I don't know,,Yes,No,39,Male
+42,,,,,,51-75%,Yes,Maybe,36,Male
+43,,,,,,51-75%,I don't know,No,30,
+44,26-100,0.0,I don't know,No,Yes,,I don't know,Yes,39,male
+45,More than 1000,1.0,Yes,Yes,I don't know,,Yes,No,33,male
+46,,,,,,,I don't know,Maybe,37,Male
+47,26-100,0.0,No,No,I don't know,,No,Maybe,34,male
+48,26-100,1.0,No,Yes,I don't know,,No,No,28,Male
+49,26-100,1.0,No,No,I don't know,,No,No,43,Female
+50,More than 1000,1.0,I don't know,No,I don't know,,Yes,No,42,male
+51,100-500,0.0,Yes,I don't know,I don't know,,Yes,Maybe,35,male
+52,More than 1000,1.0,Yes,Yes,Yes,,Yes,No,28,female
+53,100-500,1.0,Yes,I don't know,I don't know,,Yes,Maybe,37,male
+54,500-1000,1.0,I don't know,No,I don't know,,Yes,Maybe,35,female
+55,6-25,1.0,I don't know,No,I don't know,,No,No,31,male
+56,,,,,,,I don't know,Maybe,24,Male
+57,500-1000,1.0,Yes,No,I don't know,,No,No,27,Female
+58,More than 1000,1.0,Yes,Yes,I don't know,,Yes,Maybe,36,Male
+59,6-25,1.0,I don't know,No,Yes,,No,Maybe,33,male
+60,,,,,,1-25%,Yes,Yes,26,M
+61,More than 1000,0.0,Yes,Yes,Yes,,No,No,26,Male
+62,More than 1000,0.0,I don't know,No,I don't know,,No,Maybe,24,Male
+63,More than 1000,1.0,Yes,Yes,I don't know,,Yes,No,34,Male
+64,26-100,1.0,Yes,No,I don't know,,I don't know,Maybe,25,Male
+65,6-25,1.0,I don't know,No,Yes,,Yes,Maybe,19,female
+66,26-100,1.0,Yes,No,Yes,,No,No,28,M
+67,More than 1000,1.0,Yes,No,Yes,,Yes,No,26,male
+68,1-5,1.0,No,No,No,,Yes,Yes,32,male
+69,500-1000,0.0,I don't know,No,I don't know,,I don't know,No,23,male
+70,More than 1000,0.0,Yes,Yes,Yes,,Yes,Maybe,46,M
+71,6-25,1.0,I don't know,No,I don't know,,No,No,28,Male
+72,,,,,,1-25%,Yes,No,38,MALE
+73,6-25,1.0,I don't know,No,I don't know,,I don't know,Maybe,30,Female
+74,6-25,1.0,I don't know,No,I don't know,,No,Maybe,26,Male
+75,6-25,1.0,Yes,No,Yes,,No,No,37,Woman
+76,100-500,1.0,Yes,Yes,I don't know,,I don't know,Maybe,35,Male
+77,100-500,0.0,Yes,Yes,Yes,,Yes,No,26,Female
+78,26-100,1.0,Yes,Yes,Yes,,No,Maybe,29,Female
+79,More than 1000,1.0,Yes,I don't know,Yes,,Yes,No,57,Male
+80,More than 1000,0.0,Yes,Yes,Yes,,No,No,38,Male
+81,More than 1000,1.0,Yes,Yes,Yes,,No,Yes,20,Female
+82,6-25,1.0,I don't know,No,I don't know,,Yes,Maybe,41,M
+83,6-25,0.0,Yes,No,No,,Yes,Maybe,43,male
+84,More than 1000,1.0,Yes,No,Yes,,I don't know,No,35,Male
+85,6-25,1.0,I don't know,No,I don't know,,Yes,Maybe,40,female
+86,26-100,0.0,I don't know,I don't know,No,,No,Yes,28,male
+87,More than 1000,0.0,Yes,Yes,Yes,,Yes,Maybe,42,Male
+88,More than 1000,0.0,Yes,No,Yes,,No,No,39,male
+89,More than 1000,0.0,Yes,I don't know,Yes,,Yes,Maybe,28,M
+90,6-25,1.0,No,No,I don't know,,No,Maybe,22,m
+91,100-500,1.0,Yes,No,I don't know,,Yes,No,29,woman
+92,,,,,,26-50%,No,No,45,Male
+93,More than 1000,1.0,No,No,I don't know,,Yes,Yes,27,Female
+94,26-100,0.0,I don't know,No,I don't know,,No,Maybe,32,F
+95,500-1000,0.0,Yes,No,I don't know,,I don't know,Yes,28,Male
+96,100-500,1.0,Yes,No,Yes,,Yes,Yes,31,male
+97,,,,,,26-50%,No,No,28,Male
+98,More than 1000,0.0,No,No,No,,No,Yes,24,f
+99,More than 1000,0.0,Yes,Yes,Yes,,Yes,No,27,Female
+100,More than 1000,1.0,Yes,Yes,Yes,,No,Yes,36,f
+101,More than 1000,1.0,No,No,No,,Yes,No,37,Male
+102,,,,,,26-50%,No,No,27,Female
+103,100-500,1.0,Yes,No,Yes,,Yes,No,53,Female
+104,100-500,1.0,Not eligible for coverage / NA,No,I don't know,,No,Maybe,32,Male
+105,1-5,1.0,I don't know,No,I don't know,,Yes,No,25,I identify as female
+106,6-25,1.0,Not eligible for coverage / NA,No,I don't know,,Yes,Maybe,29,*shrug emoji* (F)
+107,26-100,1.0,Yes,No,Yes,,I don't know,Maybe,47,Male
+108,,,,,,,No,Maybe,36,Male
+109,More than 1000,0.0,Yes,No,I don't know,,Yes,No,61,Male
+110,6-25,1.0,Yes,No,Yes,,No,Maybe,28,male
+111,500-1000,0.0,Yes,Yes,Yes,,Yes,Yes,31,Male
+112,6-25,1.0,No,No,I don't know,,I don't know,No,35,Male
+113,26-100,1.0,I don't know,No,I don't know,,Yes,Yes,40,Male
+114,,,,,,,No,Maybe,32,Male
+115,26-100,1.0,Yes,No,Yes,,No,Maybe,41,Male
+116,6-25,1.0,Yes,No,I don't know,,No,No,34,M
+117,6-25,1.0,I don't know,No,I don't know,,Yes,No,31,Female
+118,More than 1000,0.0,Yes,No,Yes,,I don't know,No,35,Female
+119,500-1000,1.0,Yes,Yes,Yes,,Yes,Maybe,27,Female
+120,100-500,1.0,Yes,No,Yes,,Yes,No,42,Female
+121,,,,,,,No,Maybe,67,Female
+122,More than 1000,0.0,Yes,No,Yes,,Yes,Maybe,56,male
+123,6-25,1.0,Yes,No,I don't know,,Yes,No,27,Female
+124,More than 1000,1.0,Yes,No,Yes,,Yes,Yes,37,Female
+125,,,,,,1-25%,I don't know,Maybe,40,Male
+126,26-100,1.0,Yes,Yes,Yes,,I don't know,Maybe,30,Female
+127,More than 1000,1.0,Yes,I don't know,Yes,,Yes,Maybe,39,Male
+128,6-25,1.0,Not eligible for coverage / NA,No,I don't know,,Yes,No,30,Female
+129,6-25,1.0,I don't know,No,I don't know,,No,Maybe,31,male
+130,,,,,,26-50%,Yes,Maybe,36,Male
+131,6-25,1.0,Yes,No,I don't know,,Yes,No,46,Male
+132,500-1000,1.0,Yes,Yes,Yes,,Yes,No,45,Female
+133,,,,,,26-50%,I don't know,Maybe,25,male
+134,More than 1000,0.0,Not eligible for coverage / NA,No,I don't know,,Yes,No,38,f
+135,26-100,1.0,Yes,Yes,I don't know,,No,No,41,m
+136,100-500,1.0,Yes,I don't know,Yes,,Yes,No,37,Male
+137,26-100,1.0,I don't know,No,Yes,,No,No,33,female
+138,26-100,1.0,Yes,Yes,Yes,,Yes,Maybe,28,Nonbinary
+139,,,,,,51-75%,Yes,No,34,female
+140,26-100,1.0,Yes,No,I don't know,,Yes,Yes,29,f
+141,500-1000,0.0,Yes,No,I don't know,,Yes,No,28,female
+142,,,,,,1-25%,Yes,Maybe,41,Male
+143,More than 1000,1.0,Yes,Yes,I don't know,,Yes,Maybe,38,Male
+144,,,,,,1-25%,Yes,Maybe,37,"Male (or female, or both)"
+145,More than 1000,0.0,Yes,Yes,Yes,,No,Maybe,42,Male
+146,100-500,1.0,Yes,Yes,I don't know,,Yes,Maybe,28,Female
+147,More than 1000,1.0,Yes,Yes,Yes,,Yes,Maybe,30,male
+148,6-25,1.0,Yes,Yes,I don't know,,No,Maybe,25,Female
+149,,,,,,1-25%,I don't know,Maybe,54,Male
+150,,,,,,1-25%,No,No,24,male
+151,,,,,,1-25%,I don't know,Maybe,32,male
+152,More than 1000,1.0,Yes,No,I don't know,,Yes,No,44,Male
+153,500-1000,0.0,Yes,No,I don't know,,Yes,Maybe,28,Trans man
+154,More than 1000,1.0,Yes,No,I don't know,,Yes,Maybe,41,Female
+155,26-100,0.0,Yes,No,I don't know,,No,Maybe,38,male
+156,100-500,1.0,Yes,No,I don't know,,I don't know,Maybe,37,Cis-male
+157,100-500,0.0,I don't know,No,I don't know,,Yes,Maybe,36,Male
+158,More than 1000,0.0,I don't know,No,I don't know,,No,Maybe,33,m
+159,More than 1000,0.0,Yes,Yes,Yes,,I don't know,Maybe,35,Female
+160,,,,,,,No,Maybe,31,Male
+161,More than 1000,1.0,Yes,No,Yes,,No,Yes,43,Male
+162,26-100,1.0,Not eligible for coverage / NA,Yes,Yes,,Yes,Yes,34,M
+163,1-5,1.0,No,Yes,Yes,,Yes,Maybe,44,Female
+164,500-1000,1.0,Yes,No,Yes,,Yes,No,38,Male
+165,1-5,1.0,No,No,Yes,,No,Maybe,55,m
+166,100-500,1.0,Not eligible for coverage / NA,No,I don't know,,I don't know,Maybe,25,M
+167,100-500,0.0,Yes,No,I don't know,,Yes,No,37,Male
+168,100-500,1.0,Yes,Yes,I don't know,,No,No,39,Male
+169,More than 1000,1.0,Yes,I don't know,I don't know,,I don't know,Maybe,23,male
+170,,,,,,,I don't know,No,34,f
+171,26-100,1.0,Yes,No,I don't know,,I don't know,No,43,M
+172,6-25,0.0,I don't know,No,Yes,,Yes,Yes,29,Male
+173,6-25,1.0,No,No,I don't know,,Yes,Yes,25,Male
+174,6-25,1.0,Yes,No,Yes,,I don't know,Maybe,36,Male 
+175,100-500,1.0,Yes,No,Yes,,No,Yes,33,Male
+176,100-500,1.0,Yes,No,I don't know,,Yes,Yes,34,male
+177,More than 1000,1.0,Yes,Yes,Yes,,No,No,28,m
+178,100-500,0.0,Yes,Yes,I don't know,,Yes,Maybe,54,transgender
+179,26-100,0.0,I don't know,No,I don't know,,No,No,39,male
+180,100-500,0.0,Yes,No,Yes,,Yes,Maybe,37,cis male
+181,26-100,1.0,I don't know,No,I don't know,,Yes,No,29,m
+182,More than 1000,1.0,I don't know,No,I don't know,,Yes,Maybe,31,Male
+183,More than 1000,1.0,Yes,Yes,Yes,,No,Maybe,49,Male
+184,100-500,1.0,Yes,I don't know,Yes,,Yes,Yes,43,Male
+185,500-1000,0.0,Yes,Yes,Yes,,Yes,Yes,38,non binary
+186,100-500,1.0,Yes,I don't know,I don't know,,Yes,Yes,35,female
+187,More than 1000,1.0,Yes,No,I don't know,,I don't know,Yes,23,Male
+188,26-100,1.0,I don't know,No,Yes,,Yes,Yes,42,Male
+189,More than 1000,0.0,Yes,Yes,Yes,,Yes,Maybe,36,male
+190,More than 1000,1.0,Yes,No,I don't know,,No,Maybe,38,Male
+191,More than 1000,1.0,I don't know,No,I don't know,,No,No,41,Male
+192,More than 1000,1.0,Yes,I don't know,Yes,,Yes,No,37,f
+193,26-100,1.0,I don't know,Yes,Yes,,Yes,No,25,male
+194,100-500,1.0,Yes,Yes,Yes,,Yes,Maybe,33,Male
+195,100-500,1.0,I don't know,Yes,I don't know,,Yes,No,35,Female/gender non-binary.
+196,More than 1000,1.0,Yes,Yes,I don't know,,Yes,No,32,Female
+197,,,,,,26-50%,I don't know,No,45,
+198,100-500,1.0,No,Yes,I don't know,,Yes,Yes,25,Female 
+199,More than 1000,1.0,Yes,Yes,I don't know,,Yes,Maybe,40,Cis woman
+200,100-500,1.0,Yes,I don't know,I don't know,,No,Maybe,34,Male
+201,More than 1000,1.0,Yes,Yes,Yes,,No,No,28,Male
+202,More than 1000,1.0,Yes,No,I don't know,,Yes,Maybe,49,M
+203,100-500,1.0,Yes,Yes,Yes,,Yes,No,33,female
+204,,,,,,76-100%,I don't know,Maybe,41,Cis Male
+205,26-100,1.0,Yes,No,Yes,,Yes,Yes,36,m
+206,More than 1000,1.0,No,No,No,,Yes,Maybe,37,Male
+207,6-25,1.0,I don't know,No,I don't know,,Yes,Maybe,39,Male
+208,100-500,1.0,I don't know,No,I don't know,,Yes,No,49,Female (cisgender)
+209,100-500,1.0,I don't know,Yes,I don't know,,No,No,33,Male
+210,6-25,1.0,Not eligible for coverage / NA,No,I don't know,,Yes,No,29,
+211,,,,,,,No,Maybe,34,M
+212,100-500,1.0,I don't know,Yes,I don't know,,No,Maybe,29,Male
+213,26-100,1.0,Yes,No,I don't know,,No,Maybe,25,Male
+214,100-500,0.0,I don't know,No,I don't know,,I don't know,Maybe,35,Male
+215,,,,,,,No,Maybe,32,Male
+216,6-25,1.0,Yes,No,I don't know,,Yes,Maybe,21,Male
+217,6-25,1.0,Yes,No,Yes,,No,No,43,M
+218,More than 1000,1.0,Yes,Yes,I don't know,,Yes,Maybe,31,Female
+219,26-100,1.0,I don't know,Yes,I don't know,,Yes,No,27,Cis-Female
+220,6-25,1.0,Yes,No,Yes,,I don't know,Maybe,23,Man
+221,More than 1000,0.0,Yes,Yes,Yes,,Yes,No,28,male
+222,More than 1000,0.0,Yes,Yes,I don't know,,Yes,No,37,Female
+223,6-25,1.0,I don't know,No,I don't know,,No,Maybe,30,male
+224,6-25,1.0,Yes,No,I don't know,,No,No,30,M
+225,100-500,1.0,Yes,No,I don't know,,I don't know,Maybe,30,Cisgendered woman
+226,,,,,,1-25%,I don't know,Maybe,32,F
+227,More than 1000,0.0,No,No,I don't know,,Yes,No,35,M
+228,More than 1000,0.0,Yes,Yes,Yes,,Yes,No,45,Female
+229,500-1000,1.0,No,No,I don't know,,Yes,No,31,female
+230,100-500,1.0,Yes,Yes,I don't know,,Yes,Maybe,34,Female
+231,100-500,1.0,No,No,I don't know,,Yes,No,30,Male
+232,More than 1000,1.0,Yes,No,I don't know,,I don't know,No,33,Trans woman
+233,26-100,1.0,I don't know,No,I don't know,,Yes,No,32,Male
+234,500-1000,0.0,I don't know,No,I don't know,,I don't know,Yes,28,female
+235,6-25,1.0,No,No,I don't know,,Yes,Yes,28,Male
+236,500-1000,1.0,Yes,No,Yes,,Yes,Maybe,33,Male
+237,100-500,1.0,Yes,Yes,Yes,,I don't know,No,28,Female
+238,100-500,1.0,I don't know,No,I don't know,,Yes,Maybe,28,Female
+239,26-100,1.0,I don't know,No,No,,No,Maybe,43,Male
+240,More than 1000,1.0,I don't know,I don't know,I don't know,,No,Maybe,31,Female
+241,500-1000,0.0,Yes,I don't know,I don't know,,No,No,40,female
+242,More than 1000,0.0,Yes,No,I don't know,,I don't know,Maybe,42,Female
+243,26-100,1.0,Yes,I don't know,I don't know,,Yes,Maybe,38,Male
+244,100-500,1.0,I don't know,No,Yes,,No,Yes,39,Male
+245,6-25,0.0,Not eligible for coverage / NA,No,I don't know,,Yes,Yes,21,Male
+246,100-500,1.0,Yes,Yes,I don't know,,Yes,No,32,woman
+247,6-25,1.0,Not eligible for coverage / NA,No,I don't know,,Yes,No,32,Male
+248,100-500,1.0,Yes,Yes,I don't know,,Yes,Maybe,40,Male 
+249,,,,,,51-75%,Yes,Maybe,35,Male
+250,More than 1000,1.0,Yes,No,Yes,,No,No,28,Male
+251,500-1000,1.0,Yes,Yes,Yes,,Yes,Maybe,25,Female
+252,More than 1000,1.0,Yes,Yes,Yes,,Yes,No,37,male
+253,100-500,1.0,Yes,Yes,Yes,,I don't know,Yes,40,genderfluid
+254,26-100,1.0,I don't know,No,I don't know,,Yes,No,31,Female
+255,,,,,,1-25%,I don't know,Maybe,47,F
+256,100-500,1.0,Yes,No,I don't know,,Yes,Yes,26,Genderqueer
+257,26-100,0.0,Yes,No,I don't know,,Yes,Maybe,27,Female
+258,6-25,1.0,I don't know,No,No,,No,Yes,46,m
+259,More than 1000,1.0,Yes,I don't know,I don't know,,Yes,Yes,22,Woman
+260,26-100,1.0,No,No,I don't know,,Yes,Maybe,37,Female
+261,100-500,1.0,Yes,Yes,I don't know,,Yes,No,27,Male
+262,More than 1000,0.0,Yes,No,I don't know,,Yes,No,28,Female
+263,100-500,1.0,Yes,Yes,Yes,,Yes,No,32,female
+264,100-500,1.0,Yes,No,I don't know,,Yes,Yes,33,Male
+265,More than 1000,1.0,Yes,Yes,Yes,,Yes,Yes,27,Female
+266,More than 1000,1.0,Yes,I don't know,Yes,,Yes,Maybe,38,female
+267,,,,,,51-75%,Yes,Maybe,31,Male
+268,6-25,1.0,Yes,No,Yes,,No,Maybe,28,Female
+269,More than 1000,0.0,Yes,Yes,I don't know,,I don't know,No,32,Female
+270,26-100,0.0,No,No,Yes,,No,Yes,30,Female
+271,100-500,1.0,Yes,No,I don't know,,No,Maybe,26,Female
+272,More than 1000,0.0,I don't know,Yes,I don't know,,Yes,No,41,Female
+273,100-500,1.0,I don't know,No,I don't know,,No,Maybe,39,Female
+274,100-500,1.0,Yes,No,I don't know,,I don't know,No,37,Demiguy
+275,More than 1000,0.0,Not eligible for coverage / NA,I don't know,Yes,,I don't know,No,21,Female
+276,,,,,,1-25%,Yes,Yes,38,Male
+277,100-500,0.0,Yes,No,I don't know,,I don't know,No,35,Female 
+278,More than 1000,1.0,Yes,Yes,I don't know,,I don't know,Maybe,33,Female
+279,26-100,1.0,Yes,No,Yes,,I don't know,Maybe,38,Male 
+280,6-25,1.0,No,No,I don't know,,I don't know,No,29,female
+281,500-1000,1.0,Yes,Yes,Yes,,I don't know,No,25,Female
+282,100-500,1.0,I don't know,No,I don't know,,Yes,No,41,female
+283,26-100,1.0,Yes,No,I don't know,,Yes,Maybe,37,Female
+284,6-25,1.0,I don't know,No,I don't know,,Yes,Maybe,29,Male
+285,100-500,1.0,Yes,I don't know,I don't know,,No,No,45,F
+286,6-25,1.0,I don't know,No,Yes,,No,No,45,none
+287,100-500,1.0,Yes,No,Yes,,No,Maybe,45,Female
+288,More than 1000,1.0,Yes,Yes,Yes,,Yes,Yes,30,Trans female
+289,6-25,1.0,I don't know,No,I don't know,,No,Yes,27,male
+290,6-25,0.0,I don't know,No,I don't know,,No,Maybe,36,Cisgender male
+291,500-1000,0.0,Yes,Yes,Yes,,Yes,Yes,44,F
+292,More than 1000,1.0,Yes,Yes,I don't know,,I don't know,Maybe,35,Female
+293,6-25,1.0,I don't know,No,I don't know,,Yes,No,42,non-binary
+294,More than 1000,1.0,Yes,Yes,I don't know,,Yes,Maybe,26,Male
+295,,,,,,1-25%,Yes,No,33,Female
+296,100-500,1.0,Yes,No,I don't know,,Yes,No,25,Genderqueer
+297,More than 1000,0.0,Yes,No,I don't know,,Yes,Maybe,36,F
+298,500-1000,1.0,Yes,Yes,I don't know,,Yes,No,32,female
+299,More than 1000,1.0,Yes,Yes,I don't know,,Yes,Maybe,29,Female
+300,More than 1000,1.0,I don't know,Yes,Yes,,I don't know,No,29,f
+301,26-100,1.0,Yes,I don't know,Yes,,No,Yes,43,Male
+302,,,,,,51-75%,I don't know,Maybe,37,Male
+303,500-1000,0.0,No,Yes,I don't know,,No,Maybe,26,Male
+304,26-100,1.0,Yes,No,I don't know,,Yes,No,46,Male
+305,,,,,,1-25%,Yes,No,35,Female
+306,,,,,,51-75%,Yes,Maybe,37,Male
+307,500-1000,0.0,Yes,Yes,Yes,,Yes,No,30,Female
+308,26-100,1.0,Yes,No,I don't know,,I don't know,Maybe,36,Male
+309,More than 1000,0.0,Yes,No,I don't know,,I don't know,Maybe,31,Female
+310,6-25,1.0,Not eligible for coverage / NA,No,I don't know,,I don't know,No,42,Male
+311,,,,,,,No,Maybe,41,cis male
+312,More than 1000,1.0,I don't know,No,I don't know,,I don't know,Maybe,33,Female
+313,More than 1000,0.0,Yes,I don't know,Yes,,I don't know,No,26,male
+314,100-500,1.0,No,No,I don't know,,No,Maybe,37,m
+315,100-500,1.0,Yes,Yes,Yes,,Yes,Maybe,36,She/her/they/them
+316,26-100,1.0,Not eligible for coverage / NA,No,Yes,,No,Yes,35,Male
+317,100-500,0.0,I don't know,No,I don't know,,No,Maybe,45,male
+318,6-25,1.0,No,No,I don't know,,No,Yes,23,Male
+319,6-25,1.0,Yes,No,I don't know,,No,Maybe,26,Male
+320,,,,,,26-50%,No,Maybe,23,Male
+321,6-25,0.0,No,No,I don't know,,I don't know,Maybe,26,male
+322,6-25,1.0,I don't know,No,Yes,,Yes,Maybe,34,Male
+323,6-25,1.0,Not eligible for coverage / NA,Yes,Yes,,No,Maybe,22,Male
+324,6-25,0.0,Yes,No,No,,I don't know,Maybe,42,Female
+325,500-1000,1.0,No,No,Yes,,I don't know,No,40,male
+326,500-1000,0.0,I don't know,No,I don't know,,Yes,No,42,Male
+327,26-100,1.0,Yes,No,I don't know,,Yes,No,35,Male
+328,6-25,1.0,No,No,Yes,,Yes,Maybe,36,Male
+329,26-100,1.0,Yes,No,Yes,,No,Maybe,37,Male
+330,100-500,0.0,Yes,Yes,Yes,,Yes,Maybe,31,Female
+331,500-1000,1.0,Yes,No,I don't know,,Yes,Maybe,27,Male
+332,6-25,0.0,I don't know,I don't know,I don't know,,No,Maybe,38,Male
+333,6-25,1.0,No,Yes,Yes,,Yes,Maybe,32,Male
+334,More than 1000,1.0,Yes,No,I don't know,,Yes,No,23,Other
+335,More than 1000,0.0,No,No,I don't know,,Yes,Yes,51,Male
+336,26-100,1.0,Not eligible for coverage / NA,No,I don't know,,I don't know,Yes,26,Cis female 
+337,500-1000,1.0,Not eligible for coverage / NA,No,I don't know,,I don't know,Maybe,19,Female
+338,More than 1000,1.0,Yes,Yes,I don't know,,I don't know,Maybe,44,Male
+339,500-1000,1.0,Yes,No,I don't know,,I don't know,No,42,Male
+340,26-100,1.0,Yes,No,I don't know,,I don't know,No,26,Male
+341,500-1000,0.0,Yes,No,Yes,,I don't know,Yes,38,Male
+342,26-100,1.0,Yes,Yes,Yes,,Yes,No,26,Female 
+343,,,,,,26-50%,Yes,Maybe,40,Male
+344,100-500,1.0,Yes,No,Yes,,I don't know,No,32,Male
+345,100-500,1.0,Yes,Yes,I don't know,,Yes,No,39,Male
+346,6-25,1.0,Yes,No,Yes,,Yes,Maybe,44,female
+347,More than 1000,1.0,Yes,I don't know,I don't know,,Yes,Maybe,33,Female
+348,100-500,1.0,No,No,No,,I don't know,Maybe,38,male
+349,6-25,1.0,I don't know,Yes,I don't know,,I don't know,Maybe,42,Male
+350,,,,,,26-50%,I don't know,Maybe,57,Male
+351,100-500,0.0,No,No,I don't know,,Yes,No,28,male
+352,26-100,1.0,No,Yes,I don't know,,No,Maybe,31,male
+353,,,,,,,No,Maybe,34,Male
+354,26-100,1.0,I don't know,No,Yes,,No,Yes,35,Male
+355,100-500,1.0,I don't know,No,I don't know,,No,No,30,Male
+356,26-100,1.0,Yes,No,I don't know,,No,Yes,30,Male
+357,,,,,,1-25%,Yes,No,35,Male
+358,26-100,1.0,I don't know,No,I don't know,,Yes,No,40,SWM
+359,26-100,0.0,I don't know,No,I don't know,,No,Yes,39,male
+360,26-100,1.0,I don't know,No,I don't know,,Yes,No,24,m
+361,100-500,1.0,Yes,No,Yes,,I don't know,No,42,cis male
+362,26-100,1.0,Yes,No,I don't know,,Yes,No,35,Male
+363,More than 1000,1.0,Yes,I don't know,Yes,,I don't know,No,34,Male
+364,100-500,1.0,I don't know,No,I don't know,,Yes,Yes,33,Female
+365,26-100,1.0,Yes,No,Yes,,No,Maybe,37,Male
+366,100-500,0.0,Yes,No,Yes,,Yes,No,36,Male
+367,26-100,0.0,Yes,No,Yes,,I don't know,No,47,cisgender female
+368,26-100,1.0,I don't know,No,I don't know,,No,No,42,Male
+369,More than 1000,1.0,Yes,Yes,I don't know,,Yes,Yes,29,NB
+370,,,,,,,No,Maybe,38,female
+371,6-25,1.0,No,No,No,,I don't know,Maybe,30,m
+372,,,,,,1-25%,Yes,Maybe,30,Genderfluid
+373,6-25,1.0,No,No,I don't know,,Yes,Maybe,36,Male
+374,More than 1000,0.0,Yes,Yes,Yes,,I don't know,Maybe,24,Female
+375,More than 1000,0.0,Yes,Yes,Yes,,Yes,No,41,Male
+376,100-500,1.0,Yes,Yes,I don't know,,Yes,No,48,Female
+377,More than 1000,0.0,Yes,Yes,I don't know,,Yes,Maybe,31,Man
+378,100-500,1.0,Yes,Yes,I don't know,,Yes,Maybe,65,male
+379,More than 1000,0.0,Not eligible for coverage / NA,No,I don't know,,I don't know,Maybe,34,Nonbinary/femme
+380,100-500,1.0,I don't know,I don't know,I don't know,,I don't know,No,55,Female
+381,,,,,,1-25%,Yes,No,33,Female
+382,More than 1000,1.0,Yes,No,I don't know,,No,No,41,F
+383,More than 1000,0.0,Yes,No,I don't know,,I don't know,No,24,Female
+384,100-500,0.0,Not eligible for coverage / NA,No,I don't know,,Yes,No,27,Female
+385,26-100,1.0,Yes,Yes,I don't know,,No,Yes,30,Male
+386,100-500,1.0,Yes,Yes,Yes,,Yes,Maybe,37,male
+387,6-25,1.0,No,No,I don't know,,No,No,61,male
+388,,,,,,26-50%,Yes,Maybe,45,M
+389,More than 1000,1.0,I don't know,No,I don't know,,Yes,Yes,29,Male
+390,100-500,1.0,Yes,I don't know,I don't know,,Yes,Maybe,41,Male
+391,26-100,1.0,Not eligible for coverage / NA,No,I don't know,,No,No,39,Male
+392,500-1000,0.0,I don't know,No,Yes,,Yes,Maybe,30,Male
+393,More than 1000,0.0,I don't know,No,I don't know,,Yes,No,46,Male
+394,6-25,1.0,I don't know,No,I don't know,,Yes,No,42,Male
+395,More than 1000,1.0,Yes,Yes,I don't know,,Yes,No,29,Woman
+396,More than 1000,1.0,Yes,Yes,No,,Yes,No,34,Female
+397,,,,,,1-25%,I don't know,Yes,52,Male
+398,100-500,1.0,Yes,Yes,Yes,,I don't know,No,36,male
+399,26-100,1.0,I don't know,No,I don't know,,No,Maybe,34,Male
+400,,,,,,,I don't know,No,50,male
+401,,,,,,51-75%,Yes,Yes,51,Male
+402,26-100,1.0,Yes,No,Yes,,No,Yes,35,Male
+403,100-500,1.0,I don't know,No,No,,Yes,Yes,34,Male
+404,26-100,1.0,Yes,Yes,I don't know,,Yes,Maybe,24,gender non-conforming woman
+405,26-100,1.0,Yes,Yes,Yes,,No,No,37,Male
+406,26-100,0.0,No,No,I don't know,,Yes,No,24,Female 
+407,1-5,1.0,Not eligible for coverage / NA,No,I don't know,,I don't know,Maybe,46,Male
+408,More than 1000,1.0,I don't know,No,I don't know,,I don't know,No,31,m
+409,,,,,,1-25%,I don't know,No,35,M
+410,100-500,1.0,Yes,Yes,Yes,,Yes,Yes,40,Male 
+411,6-25,1.0,Yes,No,Yes,,I don't know,Yes,28,male
+412,6-25,1.0,I don't know,No,I don't know,,Yes,Maybe,28,Male
+413,100-500,0.0,Yes,No,Yes,,Yes,No,39,Male
+414,100-500,0.0,Yes,I don't know,I don't know,,I don't know,Yes,31,Male
+415,6-25,1.0,Yes,I don't know,I don't know,,I don't know,Yes,27,Male
+416,More than 1000,0.0,Yes,No,Yes,,I don't know,No,35,Male
+0,26-100,True,I don't know,Yes,I don't know,,No,Yes,25,Male
+1,26-100,True,Yes,No,Yes,,Yes,No,51,male
+2,26-100,True,I don't know,No,I don't know,,I don't know,Maybe,27,Male
+3,100-500,True,I don't know,Yes,Yes,,Yes,No,37,male
+4,26-100,True,I don't know,I don't know,I don't know,,No,No,46,m
+5,100-500,True,Yes,No,I don't know,,Yes,No,36,female
+6,26-100,True,Yes,No,Yes,,Yes,Yes,39,Female
+7,,,,,,,Yes,Maybe,35,Male
+8,26-100,True,Yes,Yes,Yes,,No,Maybe,49,
+9,6-25,True,I don't know,No,I don't know,,I don't know,Maybe,45,Male
+10,100-500,True,Yes,No,Yes,,No,Yes,40,M
+11,,,,,,51-75%,No,Yes,37,male
+12,More than 1000,True,I don't know,No,Yes,,Yes,Maybe,31,Male
+13,500-1000,True,Yes,Yes,I don't know,,Yes,No,37,Male
+14,100-500,True,Yes,Yes,I don't know,,No,Yes,26,female
+15,100-500,False,Yes,No,Yes,,No,Maybe,43,M
+16,100-500,True,Yes,Yes,Yes,,Yes,Maybe,35,Male
+17,,,,,,,Yes,Maybe,31,male
+18,100-500,True,Yes,Yes,Yes,,Yes,No,32,F
+19,More than 1000,True,Yes,Yes,I don't know,,I don't know,No,37,Male
+20,6-25,True,I don't know,No,I don't know,,I don't know,No,41,Male
+21,100-500,True,Yes,Yes,I don't know,,Yes,No,40,f
+22,500-1000,True,I don't know,No,Yes,,I don't know,Yes,37,male
+23,100-500,True,Yes,Yes,I don't know,,Yes,No,53,"Let's keep it simple and say ""male"""
+24,6-25,True,I don't know,No,I don't know,,Yes,Yes,29,male
+25,500-1000,True,I don't know,No,I don't know,,Yes,Maybe,37,Male
+26,100-500,False,I don't know,No,I don't know,,Yes,No,45,female
+27,6-25,True,I don't know,No,I don't know,,No,No,26,Male
+28,100-500,True,Yes,Yes,I don't know,,Yes,Yes,28,Male
+29,100-500,True,Yes,Yes,I don't know,,I don't know,Yes,24,Female
+30,100-500,True,Yes,No,I don't know,,Yes,No,27,Male
+31,100-500,False,Yes,No,I don't know,,No,No,42,Male
+32,,,,,,1-25%,No,Maybe,53,Female
+33,100-500,False,Not eligible for coverage / NA,Yes,I don't know,,No,Maybe,34,Male
+34,500-1000,False,Yes,Yes,I don't know,,I don't know,Maybe,23,Non-binary
+35,More than 1000,False,I don't know,No,I don't know,,I don't know,Maybe,34,M
+36,6-25,True,I don't know,No,Yes,,Yes,Yes,27,Male
+37,100-500,True,Yes,No,I don't know,,I don't know,Maybe,31,Male
+38,,,,,,76-100%,No,Yes,30,Male
+39,,,,,,1-25%,No,Maybe,58,Male
+40,More than 1000,False,Yes,Yes,Yes,,No,No,50,Male
+41,100-500,True,Yes,Yes,I don't know,,Yes,No,41,Male
+42,26-100,True,I don't know,No,I don't know,,No,No,40,male
+43,,,,,,51-75%,I don't know,Yes,28,Male
+44,1-5,True,Yes,No,Yes,,No,No,49,Identify as male
+45,More than 1000,False,I don't know,No,I don't know,,Yes,No,37,Male
+46,,,,,,1-25%,I don't know,Maybe,36,m
+47,6-25,False,Yes,Yes,Yes,,No,Yes,52,Male
+48,More than 1000,False,Yes,Yes,I don't know,,I don't know,Yes,33,
+49,,,,,,26-50%,I don't know,Maybe,54,Female
+50,,,,,,,No,No,38,Male
+51,,,,,,76-100%,No,Maybe,64,Male
+52,,,,,,51-75%,No,No,40,Male
+53,26-100,True,Yes,No,I don't know,,I don't know,Maybe,37,Male
+54,More than 1000,False,I don't know,I don't know,I don't know,,No,Yes,53,Female
+55,6-25,True,No,No,I don't know,,I don't know,Yes,55,male
+56,6-25,True,I don't know,Yes,Yes,,Yes,Maybe,30,Male
+57,500-1000,False,Yes,No,I don't know,,Yes,Yes,35,Male
+58,More than 1000,False,Yes,I don't know,Yes,,Yes,Maybe,60,Male 
+59,100-500,False,Yes,Yes,Yes,,No,Maybe,34,female
+60,More than 1000,False,No,No,I don't know,,Yes,No,35,Male
+61,More than 1000,False,Yes,No,I don't know,,Yes,Maybe,34,Male
+62,26-100,True,I don't know,No,Yes,,Yes,Yes,28,Male
+63,26-100,True,I don't know,No,I don't know,,Yes,No,28,Woman
+64,26-100,True,I don't know,No,Yes,,No,Yes,36,
+65,6-25,True,No,No,No,,I don't know,No,24,Male
+66,,,,,,1-25%,I don't know,Yes,50,Male
+67,More than 1000,True,Yes,No,I don't know,,I don't know,Maybe,55,Male
+68,26-100,True,Yes,No,Yes,,No,Yes,32,Male
+69,500-1000,True,Yes,Yes,Yes,,I don't know,Yes,33,Male
+70,500-1000,True,Yes,No,I don't know,,Yes,Maybe,30,Female
+71,500-1000,True,Yes,No,Yes,,Yes,No,30,Male
+72,100-500,True,Yes,Yes,I don't know,,I don't know,Yes,34,Male
+73,100-500,True,No,No,I don't know,,Yes,Yes,36,Female
+74,100-500,True,No,No,I don't know,,Yes,No,30,Male
+75,1-5,True,No,Yes,No,,No,Yes,29,Male
+76,500-1000,True,No,No,No,,Yes,No,34,M
+77,100-500,True,No,No,No,,No,Maybe,40,M
+78,500-1000,True,Not eligible for coverage / NA,No,I don't know,,I don't know,No,31,Non binary
+79,100-500,True,I don't know,No,Yes,,Yes,Maybe,27,Masculine
+80,More than 1000,False,Yes,Yes,Yes,,Yes,No,47,M
+81,100-500,False,Yes,No,Yes,,Yes,No,24,Female
+82,100-500,True,Yes,No,Yes,,No,Maybe,36,Male
+83,100-500,True,I don't know,No,I don't know,,I don't know,Yes,28,male
+84,500-1000,True,Yes,Yes,I don't know,,No,Maybe,34,Male
+85,100-500,True,I don't know,No,I don't know,,No,Maybe,28,Male
+86,500-1000,True,Yes,No,I don't know,,Yes,Yes,36,M
+87,100-500,True,Yes,I don't know,Yes,,I don't know,Maybe,24,male
+88,6-25,True,Yes,No,Yes,,Yes,Maybe,32,Cishet male
+89,26-100,False,No,Yes,Yes,,I don't know,Maybe,33,Male
+90,100-500,True,I don't know,I don't know,I don't know,,I don't know,Yes,39,Male
+91,More than 1000,False,Yes,No,I don't know,,I don't know,Maybe,26,female
+92,100-500,True,Yes,Yes,I don't know,,Yes,Maybe,32,Female
+93,26-100,True,Yes,Yes,Yes,,I don't know,Maybe,42,Male
+94,More than 1000,True,Yes,No,I don't know,,I don't know,No,41,M
+95,100-500,True,Yes,Yes,I don't know,,Yes,No,32,Male
+96,More than 1000,False,No,No,I don't know,,Yes,No,32,F
+97,100-500,True,Yes,I don't know,I don't know,,Yes,No,31,Female
+98,100-500,True,Not eligible for coverage / NA,No,I don't know,,Yes,No,34,Non-binary
+99,More than 1000,True,Yes,Yes,I don't know,,Yes,Maybe,36,None
+100,100-500,True,I don't know,Yes,Yes,,No,Yes,33,male
+101,26-100,True,I don't know,No,Yes,,Yes,No,30,male
+102,26-100,True,I don't know,No,I don't know,,Yes,Maybe,45,Female
+103,More than 1000,True,Yes,Yes,I don't know,,No,Yes,30,Male
+104,,,,,,1-25%,Yes,Maybe,48,Male
+105,100-500,True,Yes,No,I don't know,,I don't know,Maybe,29,Male
+106,,,,,,51-75%,I don't know,Maybe,35,Female-identified
+107,100-500,True,I don't know,No,I don't know,,I don't know,Maybe,41,Male
+108,26-100,False,Yes,No,Yes,,Yes,Maybe,27,F
+109,6-25,True,Yes,No,Yes,,I don't know,Yes,42,Male
+110,100-500,True,I don't know,No,I don't know,,Yes,Maybe,32,male
+111,100-500,True,I don't know,I don't know,I don't know,,No,Maybe,32,Male
+112,1-5,True,Yes,No,Yes,,Yes,Yes,20,Woman
+113,,,,,,26-50%,Yes,Maybe,24,woman
+114,500-1000,False,I don't know,Yes,I don't know,,No,No,0,male
+115,26-100,True,I don't know,No,I don't know,,No,Maybe,38,Male
+116,6-25,True,I don't know,No,I don't know,,I don't know,No,31,Male
+117,26-100,True,Yes,Yes,Yes,,Yes,Maybe,26,M
+118,26-100,True,Yes,No,Yes,,Yes,No,40,Male
+119,6-25,False,Yes,No,I don't know,,Yes,Maybe,30,male
+120,26-100,False,Yes,No,I don't know,,No,No,38,Male
+121,More than 1000,True,Yes,Yes,I don't know,,No,Yes,28,male
+122,More than 1000,False,Not eligible for coverage / NA,No,I don't know,,No,Maybe,28,Female
+123,More than 1000,True,Yes,No,I don't know,,Yes,Yes,30,Male
+124,More than 1000,False,Yes,Yes,I don't know,,Yes,No,23,Nonbinary
+125,More than 1000,True,I don't know,No,I don't know,,I don't know,Yes,30,male
+126,More than 1000,False,Yes,Yes,I don't know,,Yes,No,33,female
+127,500-1000,False,Yes,No,Yes,,Yes,No,53,Female
+128,More than 1000,False,Yes,Yes,Yes,,I don't know,No,38,Male
+129,26-100,True,No,No,I don't know,,No,No,34,male
+130,More than 1000,False,I don't know,No,I don't know,,I don't know,Yes,40,Male
+131,More than 1000,True,Yes,No,I don't know,,Yes,Yes,42,Male
+132,6-25,True,Yes,No,I don't know,,I don't know,Yes,42,Male
+133,26-100,False,Yes,No,I don't know,,I don't know,No,38,Male
+134,More than 1000,False,Yes,No,Yes,,Yes,No,33,agender
+135,100-500,True,Yes,I don't know,Yes,,Yes,Maybe,35,Male
+136,100-500,True,No,No,I don't know,,I don't know,No,27,Female
+137,More than 1000,False,Not eligible for coverage / NA,Yes,I don't know,,No,Maybe,28,Female
+138,More than 1000,True,No,No,No,,No,Maybe,42,Male
+139,More than 1000,True,I don't know,No,I don't know,,I don't know,Maybe,35,f
+140,More than 1000,False,Yes,No,Yes,,No,Maybe,40,Male
+141,100-500,False,Yes,Yes,I don't know,,Yes,Maybe,54,female
+142,100-500,True,Yes,No,I don't know,,Yes,No,37,male
+143,More than 1000,False,Yes,I don't know,Yes,,I don't know,Maybe,26,Female
+144,100-500,False,I don't know,No,I don't know,,I don't know,No,37,Male
+145,More than 1000,False,Yes,No,I don't know,,I don't know,No,49,Female
+146,More than 1000,False,I don't know,Yes,Yes,,No,No,23,Male
+147,100-500,True,Yes,Yes,Yes,,I don't know,Maybe,42,Female
+148,More than 1000,True,Yes,Yes,Yes,,No,Maybe,49,Male
+149,,,,,,,No,Maybe,38,male
+150,100-500,True,I don't know,Yes,I don't know,,Yes,No,41,F
+151,100-500,True,Yes,Yes,Yes,,No,Maybe,33,male
+152,26-100,True,Yes,Yes,I don't know,,Yes,No,27,Man
+153,More than 1000,False,Yes,Yes,I don't know,,No,No,47,male
+154,100-500,True,I don't know,Yes,Yes,,Yes,Maybe,28,Male
+155,More than 1000,True,Yes,No,I don't know,,Yes,No,49,Female
+156,More than 1000,False,I don't know,No,Yes,,I don't know,Yes,23,Male
+157,More than 1000,False,Yes,Yes,Yes,,I don't know,No,23,Questioning
+158,,,,,,1-25%,Yes,Maybe,38,cis male
+159,1-5,True,No,I don't know,Yes,,Yes,Maybe,45,Male
+160,,,,,,76-100%,Yes,No,35,male
+161,,,,,,,Yes,Yes,51,Male
+162,,,,,,26-50%,Yes,Maybe,34,female
+163,26-100,True,Yes,Yes,I don't know,,Yes,Maybe,29,male
+164,26-100,True,I don't know,No,I don't know,,I don't know,No,40,Male
+165,,,,,,26-50%,No,Maybe,38,male
+166,26-100,True,Yes,No,I don't know,,Yes,No,32,Cis Male
+167,More than 1000,True,Yes,Yes,I don't know,,Yes,No,22,female
+168,1-5,True,Yes,Yes,Yes,,Yes,Maybe,28,Male
+169,More than 1000,True,I don't know,Yes,I don't know,,I don't know,No,29,female
+170,,,,,,1-25%,No,Yes,32,I have a penis
+171,100-500,True,Yes,No,I don't know,,Yes,Maybe,38,female
+172,26-100,True,I don't know,No,I don't know,,No,Maybe,30,Male
+173,More than 1000,False,Yes,I don't know,I don't know,,Yes,Maybe,37,Female
+174,More than 1000,True,Yes,Yes,I don't know,,Yes,No,38,Female
+175,100-500,True,Yes,Yes,I don't know,,Yes,Maybe,51,F
+176,More than 1000,False,Yes,Yes,Yes,,Yes,No,39,Male
+177,More than 1000,False,Yes,I don't know,I don't know,,No,Yes,22,Male
+178,More than 1000,True,Yes,I don't know,Yes,,Yes,Maybe,26,Male
+179,100-500,False,I don't know,No,No,,Yes,No,42,m
+180,100-500,False,Not eligible for coverage / NA,Yes,I don't know,,No,No,49,male
+181,More than 1000,True,Yes,Yes,Yes,,Yes,Yes,48,Male
+182,More than 1000,False,Yes,Yes,Yes,,Yes,Maybe,25,male
+183,6-25,True,Not eligible for coverage / NA,No,I don't know,,I don't know,Maybe,31,Male
+184,1-5,True,Yes,No,Yes,,No,Maybe,63,Male
+185,More than 1000,True,No,No,I don't know,,No,Maybe,30,Female
+186,100-500,True,I don't know,No,I don't know,,I don't know,Maybe,34,male
+187,100-500,True,No,No,I don't know,,Yes,Maybe,41,Male
+188,More than 1000,False,No,No,No,,Yes,No,31,Male
+189,More than 1000,False,I don't know,No,I don't know,,Yes,Maybe,29,Woman
+190,More than 1000,False,Yes,No,I don't know,,Yes,No,29,Male
+191,,,,,,1-25%,Yes,Maybe,44,rr
+192,More than 1000,True,I don't know,No,I don't know,,No,Maybe,32,male
+193,More than 1000,False,I don't know,No,I don't know,,Yes,Yes,28,Male
+194,More than 1000,False,Yes,I don't know,Yes,,I don't know,No,36,Male
+195,More than 1000,True,I don't know,No,I don't know,,Yes,No,28,cis woman
+196,,,,,,1-25%,Yes,Maybe,30,Female
+197,More than 1000,False,Yes,Yes,I don't know,,No,No,36,Male
+198,6-25,True,Yes,No,I don't know,,Yes,Maybe,40,Male
+199,100-500,True,I don't know,No,I don't know,,No,Yes,27,Male
+200,More than 1000,False,Yes,No,I don't know,,Yes,Maybe,28,female
+201,More than 1000,True,Yes,Yes,Yes,,Yes,Maybe,34,male
+202,6-25,True,Yes,Yes,I don't know,,I don't know,Maybe,34,Male
+203,,,,,,76-100%,Yes,Maybe,34,Female
+204,100-500,True,Yes,No,I don't know,,Yes,Maybe,27,Female
+205,More than 1000,True,Yes,No,Yes,,Yes,No,44,female
+206,100-500,False,No,No,I don't know,,I don't know,Yes,36,Male
+207,More than 1000,False,Yes,Yes,I don't know,,Yes,No,31,female
+208,100-500,True,Yes,Yes,I don't know,,No,Yes,26,Agender trans woman
+209,6-25,True,Yes,No,Yes,,No,Maybe,39,male
+210,More than 1000,False,Yes,Yes,Yes,,Yes,Maybe,36,Female
+211,6-25,True,Not eligible for coverage / NA,No,Yes,,Yes,Yes,25,Female
+212,More than 1000,False,No,No,I don't know,,I don't know,Maybe,47,m
+213,More than 1000,False,Yes,Yes,I don't know,,I don't know,Yes,38,Male
+214,26-100,True,I don't know,Yes,I don't know,,No,Maybe,33,male
+215,,,,,,26-50%,I don't know,No,59,Female 
+216,100-500,True,Yes,Yes,Yes,,Yes,Yes,39,Male
+217,100-500,True,Not eligible for coverage / NA,Yes,Yes,,I don't know,No,19,female
+218,6-25,False,Not eligible for coverage / NA,No,I don't know,,Yes,No,35,Male
+219,26-100,True,Yes,No,I don't know,,Yes,Maybe,38,male
+220,100-500,True,I don't know,I don't know,I don't know,,No,Maybe,23,femmina
+221,More than 1000,False,Yes,No,Yes,,Yes,Yes,32,Male
+222,,,,,,1-25%,Yes,No,39,male
+223,More than 1000,False,Yes,No,Yes,,No,Maybe,33,Male
+224,500-1000,True,I don't know,No,Yes,,No,No,38,Female
+225,26-100,True,Yes,No,I don't know,,No,Yes,42,Male
+226,500-1000,True,I don't know,No,I don't know,,No,Yes,39,female
+227,More than 1000,True,Not eligible for coverage / NA,No,I don't know,,No,No,30,Male
+228,100-500,True,No,I don't know,I don't know,,I don't know,No,39,male
+229,500-1000,True,I don't know,No,I don't know,,Yes,Maybe,50,male
+230,100-500,False,I don't know,No,I don't know,,No,Maybe,43,43
+231,,,,,,1-25%,No,No,59,Female
+232,More than 1000,False,Yes,Yes,Yes,,Yes,Yes,53,male
+233,6-25,True,Yes,Yes,I don't know,,I don't know,Maybe,35,Male
+234,6-25,True,Yes,Yes,Yes,,Yes,Maybe,27,Female
+235,6-25,True,Yes,No,No,,Yes,Maybe,24,female
+236,6-25,True,Yes,I don't know,I don't know,,Yes,Maybe,29,Trans man
+237,More than 1000,True,Yes,No,I don't know,,Yes,Yes,40,female
+238,100-500,True,Not eligible for coverage / NA,No,I don't know,,No,Maybe,27,Male
+239,,,,,,1-25%,Yes,Maybe,46,Male
+240,100-500,True,No,No,No,,No,Yes,39,male
+241,,,,,,1-25%,I don't know,Maybe,19,man
+242,500-1000,True,No,No,I don't know,,No,No,28,male
+243,More than 1000,False,I don't know,Yes,Yes,,Yes,No,30,Male
+244,More than 1000,True,Yes,Yes,I don't know,,I don't know,No,29,Female
+245,More than 1000,False,I don't know,No,I don't know,,I don't know,Maybe,24,Male
+246,More than 1000,True,Not eligible for coverage / NA,No,I don't know,,Yes,Yes,25,Female
+247,500-1000,False,I don't know,Yes,I don't know,,I don't know,Yes,45,M
+248,More than 1000,True,Yes,Yes,Yes,,No,Yes,37,Male
+249,6-25,True,I don't know,No,I don't know,,Yes,Maybe,22,Male
+250,500-1000,True,Yes,Yes,I don't know,,Yes,Yes,35,Female
+251,More than 1000,False,I don't know,I don't know,I don't know,,Yes,Yes,50,Male
+252,More than 1000,True,Yes,Yes,I don't know,,I don't know,Yes,45,Male
+253,100-500,False,Not eligible for coverage / NA,Yes,I don't know,,I don't know,No,49,Male
+254,100-500,False,No,No,I don't know,,No,No,40,Male
+255,,,,,,51-75%,Yes,Maybe,32,Male
+256,500-1000,True,Yes,Yes,Yes,,No,Yes,38,F
+257,More than 1000,False,Yes,Yes,Yes,,Yes,Maybe,37,M
+258,100-500,True,I don't know,Yes,I don't know,,No,Yes,28,Woman
+259,More than 1000,True,Yes,No,Yes,,No,No,25,m
+260,,,,,,,Yes,Maybe,28,Male
+261,6-25,True,Not eligible for coverage / NA,No,I don't know,,Yes,Maybe,38,Male
+262,26-100,True,I don't know,Yes,I don't know,,No,Yes,25,male
+263,6-25,True,Yes,No,Yes,,I don't know,Maybe,49,male
+264,More than 1000,False,Yes,No,I don't know,,No,No,19,masculino
+265,,,,,,26-50%,No,No,43,male
+266,500-1000,False,Yes,Yes,No,,No,Maybe,31,Male
+267,More than 1000,False,Yes,Yes,I don't know,,Yes,Maybe,30,Male
+268,More than 1000,False,I don't know,No,I don't know,,Yes,Maybe,39,male
+269,100-500,False,Not eligible for coverage / NA,Yes,I don't know,,No,Yes,22,male
+270,More than 1000,False,Yes,No,Yes,,Yes,Yes,29,Male
+271,,,,,,26-50%,Yes,Maybe,30,Male
+272,26-100,True,Yes,No,Yes,,No,Yes,32,male
+273,More than 1000,False,No,No,I don't know,,Yes,Yes,41,Male
+274,More than 1000,False,I don't know,I don't know,I don't know,,No,No,27,F
+275,,,,,,26-50%,I don't know,No,19,female
+276,500-1000,True,Yes,No,Yes,,I don't know,Yes,27,Male
+277,,,,,,,I don't know,No,31,Male
+278,,,,,,1-25%,No,Maybe,25,Female
+279,More than 1000,True,No,No,Yes,,I don't know,Yes,36,male
+280,6-25,False,No,Yes,I don't know,,Yes,Yes,28,F
+281,500-1000,True,Yes,No,I don't know,,I don't know,No,27,f
+282,26-100,True,Yes,No,Yes,,Yes,No,47,None
+283,26-100,True,I don't know,No,I don't know,,I don't know,No,25,Male
+284,100-500,True,I don't know,No,I don't know,,No,No,30,female
+285,100-500,False,Not eligible for coverage / NA,I don't know,I don't know,,Yes,Maybe,45,M
+286,,,,,,1-25%,Yes,Maybe,41,I am a Wookie
+287,6-25,True,No,No,No,,I don't know,Maybe,24,Female
+288,More than 1000,True,I don't know,No,Yes,,I don't know,Maybe,26,Female 
+289,More than 1000,True,Yes,No,I don't know,,Yes,Maybe,32,female
+290,More than 1000,True,Yes,Yes,I don't know,,Yes,Maybe,43,female
+291,,,,,,,No,Maybe,37,Male
+292,500-1000,False,I don't know,I don't know,I don't know,,Yes,No,51,Make
+293,,,,,,,No,Maybe,56,Male
+294,500-1000,False,Yes,Yes,I don't know,,Yes,Yes,30,Male
+295,26-100,True,I don't know,No,I don't know,,Yes,Maybe,48,Trans non-binary/genderfluid
+296,100-500,True,Yes,No,I don't know,,I don't know,Maybe,28,Female
+297,6-25,True,No,No,I don't know,,No,No,26,Female
+298,6-25,False,No,No,No,,No,No,45,male
+299,26-100,True,Yes,Yes,Yes,,No,Maybe,37,m
+300,100-500,True,Yes,Yes,Yes,,I don't know,Maybe,42,Female
+301,26-100,True,I don't know,No,I don't know,,I don't know,Maybe,34,Male
+302,More than 1000,True,I don't know,Yes,I don't know,,Yes,Maybe,35,Female
+303,More than 1000,False,Yes,No,I don't know,,No,No,28,male
+304,26-100,True,I don't know,No,I don't know,,I don't know,No,26,Male
+305,100-500,False,I don't know,No,No,,No,Yes,34,F
+306,More than 1000,True,I don't know,No,I don't know,,No,Maybe,28,
+307,100-500,True,Yes,Yes,I don't know,,Yes,Maybe,34,Female
+308,,,,,,26-50%,No,Yes,45,Male
+309,,,,,,26-50%,I don't know,Maybe,59,Female
+310,26-100,True,I don't know,No,I don't know,,Yes,Maybe,41,Male
+311,More than 1000,False,Yes,I don't know,Yes,,Yes,Maybe,38,
+312,More than 1000,True,Yes,Yes,I don't know,,Yes,Maybe,42,Female
+313,100-500,True,I don't know,No,Yes,,Yes,Maybe,21,Male
+314,26-100,True,Yes,Yes,Yes,,Yes,No,30,female
+315,100-500,True,Yes,Yes,Yes,,No,No,46,CIS Male
+316,,,,,,51-75%,Yes,No,36,female
+317,More than 1000,True,I don't know,No,Yes,,No,Yes,41,Male
+318,,,,,,1-25%,No,Maybe,33,Female
+319,1-5,True,Yes,No,I don't know,,No,Yes,41,m
+320,More than 1000,False,Yes,No,I don't know,,Yes,Maybe,25,Male
+321,6-25,True,No,Yes,No,,Yes,Maybe,27,agender
+322,More than 1000,True,I don't know,Yes,I don't know,,I don't know,No,47,Female
+323,26-100,True,Yes,No,Yes,,I don't know,Yes,24,Male
+324,More than 1000,True,Yes,Yes,Yes,,No,No,40,male
+325,100-500,True,Yes,No,I don't know,,I don't know,Yes,37,M
+326,More than 1000,True,I don't know,No,I don't know,,I don't know,No,38,Male
+327,More than 1000,True,I don't know,I don't know,I don't know,,No,No,47,Male
+328,More than 1000,True,Yes,Yes,Yes,,Yes,Maybe,30,Female
+329,26-100,False,Not eligible for coverage / NA,No,I don't know,,Yes,Maybe,24,Female
+330,More than 1000,False,Yes,No,Yes,,Yes,Maybe,38,Female
+331,6-25,True,Yes,Yes,I don't know,,Yes,No,42,Male
+332,100-500,True,No,No,I don't know,,No,Maybe,39,Male
+333,More than 1000,True,I don't know,No,Yes,,I don't know,Maybe,42,Male
+334,More than 1000,False,Yes,No,Yes,,Yes,Maybe,47,male
+335,More than 1000,True,Yes,No,Yes,,No,No,29,Male
+336,More than 1000,True,Yes,Yes,I don't know,,Yes,Yes,55,M
+337,500-1000,True,I don't know,I don't know,I don't know,,Yes,Maybe,34,Non-binary and gender fluid
+338,More than 1000,True,Yes,Yes,Yes,,No,Yes,45,Male
+339,More than 1000,False,I don't know,Yes,Yes,,Yes,Yes,46,male
+340,More than 1000,False,Yes,No,I don't know,,I don't know,Yes,23,Female
+341,100-500,False,No,No,No,,Yes,No,22,female
+342,26-100,True,No,No,I don't know,,Yes,Yes,30,Male
+343,,,,,,,I don't know,No,27,Male
+344,100-500,True,Yes,No,I don't know,,Yes,Maybe,42,Female
+345,26-100,True,Yes,No,Yes,,Yes,Yes,26,Femile
+346,6-25,True,No,No,I don't know,,No,No,31,female
+347,More than 1000,False,I don't know,No,I don't know,,No,Maybe,27,male
+348,,,,,,26-50%,No,Maybe,48,m
+349,,,,,,,No,Yes,50,M
+350,More than 1000,True,No,No,Yes,,No,No,30,female
+351,More than 1000,True,Yes,No,Yes,,Yes,Maybe,24,Female (cis)
+0,,,,,,1-25%,Yes,Maybe,45,Male
+1,,,,,,1-25%,Yes,Yes,24,female
+2,,,,,,76-100%,Yes,Maybe,46,Male
+3,,,,,,1-25%,Yes,Yes,25,Female
+4,,,,,,26-50%,I don't know,Yes,25,F
+5,,,,,,,No,Maybe,5,f
+6,,,,,,1-25%,Yes,Yes,1,
+7,,,,,,51-75%,Yes,Yes,35,Male
+8,,,,,,76-100%,No,Maybe,34,female
+9,,,,,,76-100%,No,No,23,Female
+10,,,,,,1-25%,Yes,Maybe,42,female
+11,,,,,,26-50%,Yes,Maybe,54,male
+12,,,,,,1-25%,Yes,Maybe,40,Female
+13,,,,,,76-100%,Yes,Maybe,36,Female
+14,,,,,,,I don't know,Yes,30,male
+15,,,,,,,Yes,Yes,22,male
+16,,,,,,1-25%,Yes,Yes,21,Female
+17,,,,,,26-50%,Yes,Maybe,46,male
+18,,,,,,26-50%,No,Yes,63,Male
+19,,,,,,76-100%,No,Yes,20,Male
+20,,,,,,,No,Maybe,24,mail
+21,,,,,,26-50%,I don't know,No,44,Male
+22,,,,,,26-50%,I don't know,No,35,male
+23,,,,,,,No,Maybe,30,Female
+24,,,,,,26-50%,I don't know,No,23,Female
+25,More than 1000,0.0,Yes,Yes,I don't know,,Yes,Yes,26,male
+26,500-1000,1.0,No,I don't know,I don't know,,No,No,32,Male
+27,6-25,1.0,I don't know,No,I don't know,,I don't know,No,34,Male
+28,26-100,1.0,Yes,I don't know,I don't know,,Yes,Maybe,44,female
+29,500-1000,1.0,No,No,Yes,,No,Maybe,33,M
+30,More than 1000,1.0,Yes,Yes,Yes,,I don't know,Yes,38,Male
+31,More than 1000,0.0,I don't know,No,Yes,,No,Yes,45,m
+32,More than 1000,1.0,Yes,Yes,Yes,,No,Maybe,27,F
+33,26-100,1.0,I don't know,I don't know,Yes,,I don't know,Maybe,21,male
+34,More than 1000,1.0,I don't know,No,I don't know,,No,Yes,30,Female
+35,More than 1000,0.0,I don't know,No,Yes,,No,Maybe,44,Male
+36,More than 1000,0.0,Yes,Yes,I don't know,,No,Maybe,32,Male
+37,More than 1000,1.0,Yes,Yes,Yes,,No,Maybe,39,f
+38,100-500,0.0,No,No,I don't know,,I don't know,No,27,Woman
+39,More than 1000,1.0,Yes,Yes,I don't know,,I don't know,Yes,34,Male
+40,26-100,1.0,No,No,I don't know,,No,Maybe,30,male
+41,26-100,1.0,No,No,I don't know,,I don't know,No,24,Male
+42,More than 1000,1.0,Not eligible for coverage / NA,No,I don't know,,No,No,50,Male
+43,More than 1000,1.0,Yes,Yes,I don't know,,No,Maybe,27,Male
+44,100-500,1.0,Yes,Yes,Yes,,Yes,Maybe,28,Male
+45,More than 1000,1.0,I don't know,No,I don't know,,No,No,27,female
+46,500-1000,1.0,I don't know,No,Yes,,Yes,Yes,34,Male
+47,100-500,1.0,No,No,I don't know,,I don't know,Yes,42,M
+48,500-1000,1.0,Yes,Yes,No,,No,Yes,22,
+49,100-500,1.0,No,No,No,,No,Maybe,28,female
+50,26-100,1.0,Yes,Yes,Yes,,No,Yes,36,Male
+51,More than 1000,0.0,No,Yes,I don't know,,No,Maybe,41,Male
+52,6-25,1.0,Yes,No,I don't know,,Yes,Yes,30,male
+53,100-500,0.0,I don't know,Yes,Yes,,I don't know,No,34,male
+54,More than 1000,0.0,I don't know,Yes,I don't know,,No,No,23,female
+55,More than 1000,0.0,No,No,I don't know,,No,No,29,female
+56,500-1000,0.0,Yes,No,Yes,,No,Maybe,58,male
+57,100-500,0.0,I don't know,No,I don't know,,No,Yes,40,Male
+58,100-500,1.0,Not eligible for coverage / NA,No,I don't know,,Yes,Yes,32,Male
+59,100-500,1.0,I don't know,I don't know,I don't know,,Yes,Maybe,30,Male
+60,500-1000,0.0,Yes,Yes,I don't know,,Yes,No,33,FEMALE
+61,26-100,0.0,I don't know,No,Yes,,No,Maybe,22,f
+62,More than 1000,1.0,Yes,I don't know,Yes,,No,No,30,F
+63,6-25,1.0,No,No,No,,Yes,Yes,34,Male
+64,6-25,0.0,Yes,Yes,I don't know,,I don't know,No,44,Male
+65,26-100,1.0,Yes,No,I don't know,,I don't know,Yes,30,Male
+66,100-500,0.0,Yes,Yes,Yes,,I don't know,No,39,Male
+67,500-1000,1.0,Yes,No,I don't know,,No,No,48,M
+68,26-100,0.0,I don't know,No,I don't know,,Yes,No,26,Male
+69,26-100,0.0,I don't know,No,Yes,,Yes,No,28,female
+70,More than 1000,1.0,Yes,I don't know,Yes,,I don't know,Maybe,36,Male
+71,6-25,1.0,I don't know,No,I don't know,,No,No,37,Male
+72,More than 1000,1.0,Yes,No,I don't know,,Yes,No,42,Male
+73,More than 1000,1.0,Yes,No,I don't know,,Yes,Maybe,31,Male
+74,More than 1000,0.0,I don't know,No,I don't know,,I don't know,No,22,male
+75,100-500,1.0,I don't know,No,No,,Yes,Yes,40,male
+76,More than 1000,1.0,Yes,Yes,Yes,,No,Maybe,50,M
+77,More than 1000,1.0,I don't know,Yes,I don't know,,No,Maybe,31,female
+78,More than 1000,1.0,Yes,Yes,Yes,,Yes,No,29,"female, she/her"
+79,100-500,0.0,No,No,I don't know,,No,Yes,40,Male
+80,More than 1000,0.0,No,No,I don't know,,No,No,33,female
+81,26-100,1.0,I don't know,I don't know,I don't know,,No,Yes,29,Male
+82,More than 1000,1.0,I don't know,Yes,I don't know,,No,Yes,27,female
+83,More than 1000,1.0,Yes,Yes,Yes,,Yes,Yes,36,Male
+84,More than 1000,0.0,Yes,Yes,I don't know,,No,Maybe,33,Female
+85,6-25,1.0,I don't know,No,I don't know,,Yes,Maybe,40,Male
+86,26-100,1.0,Yes,Yes,Yes,,Yes,Maybe,42,Male
+87,500-1000,1.0,I don't know,No,I don't know,,Yes,Maybe,31,Male
+88,More than 1000,0.0,Yes,Yes,I don't know,,No,Yes,35,female
+89,More than 1000,0.0,Yes,Yes,Yes,,I don't know,Maybe,46,male
+90,100-500,1.0,Yes,Yes,I don't know,,Yes,No,54,female
+91,500-1000,0.0,I don't know,No,I don't know,,No,Yes,33,Male
+92,100-500,1.0,No,No,No,,I don't know,Maybe,40,Female
+93,100-500,0.0,I don't know,Yes,Yes,,No,No,23,Female
+94,500-1000,1.0,I don't know,No,I don't know,,Yes,No,32,Male
+95,More than 1000,1.0,Yes,Yes,Yes,,Yes,Maybe,26,Woman
+96,More than 1000,0.0,Yes,Yes,Yes,,No,Yes,30,Male
+97,More than 1000,1.0,No,Yes,I don't know,,No,Maybe,30,Male
+98,26-100,1.0,Yes,Yes,Yes,,No,Maybe,44,male
+99,100-500,1.0,Not eligible for coverage / NA,I don't know,I don't know,,No,Maybe,37,Male
+100,More than 1000,1.0,I don't know,No,No,,No,No,37,Male
+101,500-1000,1.0,Yes,Yes,I don't know,,No,Yes,29,Female
+102,26-100,1.0,Yes,No,I don't know,,I don't know,Maybe,39,male
+103,6-25,1.0,I don't know,No,I don't know,,No,Maybe,20,Male
+104,100-500,1.0,I don't know,No,I don't know,,No,Yes,44,Male
+105,26-100,1.0,No,No,No,,No,Maybe,23,male
+106,More than 1000,1.0,Yes,Yes,Yes,,Yes,Yes,22,Female
+107,More than 1000,1.0,I don't know,No,I don't know,,No,No,31,female
+108,26-100,0.0,Yes,Yes,Yes,,I don't know,Maybe,59,male
+109,More than 1000,0.0,No,Yes,Yes,,No,Maybe,30,Female
+110,26-100,0.0,Yes,Yes,Yes,,Yes,Yes,48,F
+111,More than 1000,1.0,I don't know,I don't know,Yes,,No,No,30,female
+112,More than 1000,1.0,Yes,No,Yes,,No,No,23,male
+113,500-1000,0.0,Yes,No,Yes,,No,No,27,Male
+114,26-100,1.0,I don't know,No,I don't know,,Yes,No,53,female
+115,500-1000,0.0,I don't know,No,I don't know,,No,Maybe,62,Male
+116,More than 1000,1.0,Yes,No,I don't know,,Yes,Maybe,32,mostly male
+117,More than 1000,1.0,No,No,I don't know,,No,Maybe,34,Male
+118,More than 1000,0.0,I don't know,No,I don't know,,Yes,Maybe,29,male
+119,More than 1000,0.0,I don't know,I don't know,I don't know,,No,Maybe,32,Female
+120,500-1000,0.0,No,No,Yes,,No,Yes,46,Male
+121,More than 1000,1.0,No,No,No,,Yes,Yes,42,male
+122,26-100,1.0,No,No,No,,I don't know,Maybe,32,Male
+123,More than 1000,0.0,I don't know,No,I don't know,,Yes,Maybe,28,male
+124,6-25,1.0,No,Yes,Yes,,Yes,Yes,45,Male
+125,26-100,1.0,No,No,Yes,,No,No,29,Female
+126,More than 1000,0.0,Yes,Yes,I don't know,,No,No,27,M
+127,6-25,1.0,No,No,I don't know,,No,No,47,male
+128,100-500,1.0,I don't know,Yes,I don't know,,I don't know,Yes,24,Female
+129,More than 1000,0.0,Yes,No,I don't know,,Yes,Yes,32,female
+130,100-500,0.0,Yes,Yes,I don't know,,I don't know,Yes,26,Male
+131,100-500,0.0,No,No,Yes,,Yes,No,34,male
+132,26-100,1.0,Yes,No,I don't know,,I don't know,Yes,45,cisgender male
+133,More than 1000,1.0,Yes,Yes,Yes,,No,Yes,21,Female
+134,100-500,0.0,No,No,I don't know,,No,Yes,44,Female
+135,More than 1000,1.0,I don't know,I don't know,I don't know,,No,Maybe,47,male
+136,More than 1000,1.0,Not eligible for coverage / NA,No,I don't know,,Yes,Maybe,40,Male
+137,100-500,0.0,I don't know,I don't know,I don't know,,No,Maybe,25,Female
+138,More than 1000,1.0,Yes,Yes,I don't know,,Yes,Maybe,24,Female
+139,More than 1000,1.0,Yes,Yes,I don't know,,No,Yes,26,female
+140,6-25,1.0,No,No,No,,I don't know,No,31,male
+141,500-1000,1.0,No,Yes,I don't know,,No,No,26,female
+142,More than 1000,0.0,I don't know,Yes,Yes,,No,Yes,32,Male
+143,More than 1000,0.0,I don't know,Yes,I don't know,,No,No,33,Female
+144,500-1000,0.0,Yes,Yes,Yes,,Yes,Maybe,42,F
+145,100-500,1.0,Yes,Yes,Yes,,Yes,No,46,Male
+146,More than 1000,1.0,Yes,Yes,I don't know,,No,Maybe,30,m
+147,More than 1000,1.0,No,Yes,I don't know,,I don't know,No,24,Male
+148,26-100,0.0,I don't know,No,I don't know,,No,Maybe,42,m
+149,More than 1000,0.0,I don't know,No,I don't know,,No,Maybe,28,male
+150,More than 1000,1.0,Yes,Yes,Yes,,No,No,27,Female
+151,More than 1000,0.0,Yes,Yes,Yes,,No,Maybe,62,Male
+152,More than 1000,0.0,No,No,I don't know,,No,Maybe,34,male
+153,500-1000,1.0,I don't know,Yes,Yes,,No,Yes,38,Male
+154,26-100,1.0,Not eligible for coverage / NA,Yes,Yes,,Yes,Maybe,42,Male
+155,More than 1000,1.0,I don't know,Yes,Yes,,No,No,35,male
+156,More than 1000,0.0,Yes,Yes,Yes,,No,Yes,32,Male
+157,26-100,1.0,No,No,I don't know,,No,Yes,32,Female
+158,26-100,1.0,No,No,No,,No,Maybe,25,female
+159,More than 1000,0.0,No,Yes,I don't know,,No,No,52,Male
+160,More than 1000,0.0,No,No,No,,I don't know,Maybe,24,F
+161,1-5,1.0,I don't know,No,Yes,,Yes,Yes,24,MAle
+162,More than 1000,1.0,Yes,Yes,I don't know,,Yes,No,48,F
+163,26-100,0.0,Yes,Yes,Yes,,I don't know,No,24,Male
+164,More than 1000,1.0,I don't know,No,I don't know,,Yes,Yes,32,Male
+165,More than 1000,1.0,Yes,No,I don't know,,I don't know,Maybe,21,Male
+166,100-500,0.0,Yes,No,Yes,,I don't know,No,34,male
+167,More than 1000,0.0,Yes,No,I don't know,,I don't know,Yes,25,Male
+168,26-100,1.0,Yes,Yes,I don't know,,Yes,Yes,39,Male
+169,More than 1000,1.0,No,No,Yes,,No,No,25,Male
+170,More than 1000,0.0,I don't know,Yes,No,,No,Yes,28,F
+171,More than 1000,1.0,Yes,Yes,Yes,,Yes,No,39,Male
+172,500-1000,0.0,I don't know,No,I don't know,,I don't know,Yes,20,m
+173,26-100,1.0,Yes,Yes,No,,Yes,Yes,40,Female
+174,More than 1000,1.0,I don't know,I don't know,I don't know,,No,Maybe,31,male
+175,More than 1000,0.0,No,No,No,,No,No,53,Male
+176,26-100,1.0,Yes,Yes,I don't know,,No,Maybe,23,F
+177,100-500,1.0,I don't know,No,I don't know,,Yes,Maybe,34,Male
+178,500-1000,0.0,Yes,Yes,Yes,,Yes,No,43,Male
+179,500-1000,1.0,Not eligible for coverage / NA,Yes,I don't know,,No,Yes,37,male
+0,26-100,1.0,I don't know,No,I don't know,,I don't know,Yes,28,Female
+1,500-1000,1.0,Yes,Yes,Yes,,No,Maybe,41,male
+2,100-500,1.0,Yes,No,I don't know,,No,Maybe,35,Male
+3,,,,,,,Yes,No,20,male
+4,More than 1000,0.0,Yes,Yes,I don't know,,No,No,35,female
+5,6-25,1.0,No,No,No,,No,No,30,Female
+6,More than 1000,1.0,No,Yes,Yes,,No,No,34,female
+7,More than 1000,0.0,Yes,No,I don't know,,I don't know,No,23,female
+8,More than 1000,1.0,No,Yes,No,,No,No,19,Female
+9,,,,,,26-50%,Yes,Maybe,34,f
+10,More than 1000,0.0,Yes,Yes,Yes,,No,Maybe,25,Male
+11,26-100,1.0,No,No,I don't know,,No,No,29,Male
+12,26-100,0.0,No,No,No,,No,No,40,F
+13,100-500,1.0,No,No,I don't know,,No,Maybe,26,female
+14,100-500,1.0,No,No,I don't know,,Yes,Maybe,25,Male
+15,26-100,1.0,Yes,I don't know,Yes,,No,No,24,Female
+16,100-500,0.0,I don't know,No,Yes,,No,Maybe,25,f
+17,26-100,1.0,No,No,No,,No,Yes,22,Male
+18,26-100,1.0,I don't know,I don't know,I don't know,,No,Maybe,27,male
+19,6-25,0.0,I don't know,I don't know,I don't know,,No,Maybe,25,female
+20,500-1000,1.0,Not eligible for coverage / NA,No,I don't know,,No,Maybe,25,Female
+21,1-5,1.0,No,Yes,Yes,,No,Yes,23,Male
+22,More than 1000,0.0,I don't know,No,I don't know,,No,Yes,27,Female
+23,More than 1000,0.0,I don't know,No,Yes,,Yes,Maybe,33,Male
+24,More than 1000,1.0,Yes,No,Yes,,No,No,22,Male
+25,26-100,1.0,Yes,No,Yes,,Yes,Yes,45,woman
+26,More than 1000,1.0,I don't know,No,I don't know,,No,Yes,25,Female
+27,More than 1000,1.0,I don't know,Yes,Yes,,No,No,22,Female
+28,500-1000,0.0,Yes,Yes,Yes,,Yes,No,36,Female
+29,100-500,1.0,Yes,No,I don't know,,Yes,No,42,afab non-binary
+30,,,,,,,No,No,39,Male
+31,100-500,0.0,Yes,No,Yes,,Yes,No,51,Female
+32,More than 1000,0.0,Yes,Yes,Yes,,Yes,No,27,Female
+33,100-500,0.0,I don't know,No,I don't know,,No,Maybe,19,Male
+34,,,,,,,No,Maybe,11,male
+35,6-25,0.0,Yes,I don't know,Yes,,No,Yes,25,male
+36,More than 1000,0.0,Yes,Yes,I don't know,,Yes,Maybe,39,male
+37,1-5,1.0,No,No,Yes,,No,No,47,MALE
+38,1-5,0.0,Yes,Yes,Yes,,Yes,Yes,223,
+39,More than 1000,0.0,Yes,Yes,I don't know,,I don't know,No,36,Female
+40,26-100,1.0,I don't know,No,I don't know,,I don't know,Yes,57,Masculine
+41,100-500,1.0,No,I don't know,I don't know,,I don't know,Maybe,34,male
+42,More than 1000,1.0,No,No,I don't know,,Yes,Yes,26,Male
+43,6-25,0.0,Yes,No,Yes,,Yes,No,24,Female
+44,500-1000,0.0,Yes,Yes,Yes,,I don't know,Yes,26,Female (cis)
+45,100-500,1.0,I don't know,No,I don't know,,I don't know,Maybe,21,b
+46,,,,,,26-50%,No,No,32,Female
+47,500-1000,0.0,No,Yes,I don't know,,I don't know,No,25,female
+48,100-500,0.0,Yes,Yes,Yes,,No,Maybe,31,Male
+49,More than 1000,0.0,Yes,Yes,Yes,,No,No,28,Male
+50,More than 1000,1.0,I don't know,No,Yes,,Yes,No,27,Female
+51,26-100,1.0,No,Yes,Yes,,I don't know,No,36,Male
+52,More than 1000,1.0,Yes,Yes,I don't know,,Yes,Maybe,40,female
+53,500-1000,1.0,I don't know,No,I don't know,,Yes,Maybe,27,Male
+54,6-25,1.0,No,No,No,,Yes,Yes,25,female
+55,100-500,1.0,Yes,Yes,Yes,,No,No,31,Male
+56,100-500,1.0,No,No,No,,No,Yes,35,female
+57,100-500,1.0,Yes,Yes,I don't know,,No,No,22,m
+58,More than 1000,1.0,Yes,No,I don't know,,Yes,Yes,42,male/he/him
+59,More than 1000,1.0,No,I don't know,Yes,,No,No,38,Male
+60,More than 1000,0.0,Yes,Yes,Yes,,Yes,Maybe,38,female
+61,6-25,1.0,I don't know,No,I don't know,,Yes,Maybe,31,homem cis
+62,More than 1000,0.0,Yes,Yes,I don't know,,Yes,Maybe,29,male
+63,26-100,1.0,Not eligible for coverage / NA,No,I don't know,,Yes,Yes,44,Female
+64,6-25,1.0,I don't know,No,Yes,,No,Maybe,21,Male
+65,,,,,,,No,Yes,63,male
+66,More than 1000,0.0,No,Yes,Yes,,I don't know,No,30,woman
+67,500-1000,0.0,Yes,Yes,I don't know,,Yes,Yes,33,male
+68,More than 1000,0.0,Yes,No,Yes,,I don't know,Maybe,43,Male
+69,,,,,,1-25%,Yes,Yes,20,m
+70,100-500,1.0,No,No,I don't know,,Yes,Yes,21,male
+71,26-100,0.0,Yes,No,I don't know,,I don't know,Yes,22,male
+72,More than 1000,1.0,Yes,No,Yes,,No,No,23,female
+73,More than 1000,1.0,No,Yes,I don't know,,No,No,34,Male
+74,,,,,,1-25%,No,Yes,27,woman
+75,,,,,,26-50%,Yes,Maybe,25,Female
+76,More than 1000,1.0,Yes,Yes,I don't know,,No,Maybe,21,Female
+77,More than 1000,1.0,Yes,Yes,I don't know,,Yes,Maybe,49,Male
+78,100-500,0.0,I don't know,I don't know,I don't know,,No,Maybe,22,FEMALE
+79,More than 1000,1.0,Yes,Yes,I don't know,,Yes,Maybe,35,Female
+80,1-5,0.0,No,No,I don't know,,No,Yes,25,female
+81,,,,,,51-75%,Yes,Maybe,38,Male
+82,More than 1000,1.0,Yes,Yes,Yes,,No,Yes,38,male
+83,More than 1000,1.0,Yes,Yes,Yes,,No,No,30,M
+84,More than 1000,1.0,Yes,Yes,I don't know,,Yes,Maybe,41,cis-het male
+85,26-100,1.0,Yes,No,I don't know,,I don't know,Maybe,36,cis male
+86,26-100,0.0,Yes,No,I don't know,,I don't know,Maybe,23,Female
+87,,,,,,26-50%,Yes,Maybe,21,male
+88,6-25,0.0,I don't know,No,Yes,,No,Maybe,25,Male
+89,6-25,1.0,No,No,I don't know,,No,No,32,Male
+90,26-100,1.0,Not eligible for coverage / NA,No,I don't know,,Yes,Yes,41,male
+91,,,,,,1-25%,I don't know,Yes,23,Female
+92,100-500,0.0,No,No,No,,Yes,Maybe,45,male
+93,More than 1000,1.0,No,No,Yes,,No,No,23,Male
+94,26-100,1.0,No,No,No,,No,No,21,m
+95,More than 1000,0.0,Yes,Yes,I don't know,,Yes,Yes,51,Male
+96,More than 1000,1.0,I don't know,Yes,I don't know,,No,Maybe,21,Female
+97,100-500,1.0,Yes,No,Yes,,Yes,Maybe,38,Male
+98,26-100,0.0,Yes,No,I don't know,,No,Maybe,31,Female
+99,More than 1000,1.0,Yes,Yes,Yes,,Yes,Yes,24,Female
+100,100-500,1.0,Yes,Yes,Yes,,Yes,No,29,M
+101,500-1000,1.0,I don't know,No,I don't know,,I don't know,Yes,27,Female
+102,500-1000,1.0,I don't know,No,Yes,,I don't know,Maybe,25,Female
+103,More than 1000,1.0,Yes,Yes,Yes,,Yes,No,47,woman
+104,More than 1000,1.0,Yes,Yes,Yes,,Yes,No,30,Female
+105,More than 1000,1.0,I don't know,Yes,Yes,,Yes,Maybe,33,female
+106,More than 1000,1.0,Yes,Yes,I don't know,,Yes,No,23,Non-binary
+107,More than 1000,1.0,Yes,I don't know,Yes,,I don't know,No,37,Male
+108,More than 1000,1.0,Yes,Yes,Yes,,Yes,Maybe,30,Female
+109,More than 1000,1.0,Yes,Yes,Yes,,Yes,Yes,36,Non-binary/Agender
+110,100-500,1.0,No,No,Yes,,Yes,Yes,42,Male
+111,26-100,1.0,Yes,No,I don't know,,No,Maybe,40,F
+112,More than 1000,1.0,I don't know,I don't know,I don't know,,No,Maybe,23,female
+113,100-500,1.0,I don't know,No,I don't know,,Yes,Maybe,45,Male
+114,More than 1000,1.0,Yes,Yes,Yes,,No,Yes,30,Male
+115,More than 1000,0.0,I don't know,Yes,I don't know,,Yes,Maybe,34,female
+116,26-100,0.0,I don't know,No,No,,Yes,Maybe,45,Male
+117,100-500,0.0,Yes,Yes,Yes,,Yes,No,30,Female
+118,More than 1000,0.0,I don't know,No,I don't know,,Yes,Maybe,22,F
+119,6-25,1.0,No,No,I don't know,,No,Maybe,28,male
+120,More than 1000,1.0,No,No,I don't know,,Yes,No,37,Male
+121,,,,,,,No,Yes,23,Male
+122,More than 1000,0.0,Yes,Yes,Yes,,I don't know,Maybe,35,Male
+123,,,,,,,No,Maybe,34,Male
+124,6-25,1.0,Yes,Yes,I don't know,,No,Maybe,46,Male
+125,,,,,,26-50%,Yes,No,33,Male
+126,26-100,1.0,No,No,I don't know,,I don't know,Maybe,33,Male
+127,100-500,1.0,No,I don't know,I don't know,,Yes,Maybe,49,Male
+128,,,,,,1-25%,No,No,28,
+129,,,,,,51-75%,No,No,26,Male
+130,26-100,1.0,I don't know,No,No,,No,Yes,38,male
